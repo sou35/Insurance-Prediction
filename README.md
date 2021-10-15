@@ -36,15 +36,17 @@ This project has four major parts :
 
 ## Model-Flask-Deployment
 
-a.Run app.py using below command to start Flask API
+Running the project
+
+  a. Run app.py using below command to start Flask API
 ```
 python app.py
 ```
-By default, flask will run on port 5000.
+ By default, flask will run on port 5000.
 
-b.Navigate to URL http://localhost:5000
+ b. Navigate to URL http://localhost:5000
 
-Enter valid numerical values in all 6 input boxes and hit Predict.
+ Enter valid numerical values in all 6 input boxes and hit Predict.
 
-If everything goes well, you should be able to see the predcited insurance charge vaule on the HTML page!
+ If everything goes well, you should be able to see the predcited insurance charge vaule on the HTML page!
 
